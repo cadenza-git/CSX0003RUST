@@ -1,3 +1,3 @@
 # Introduction
-Writing algorithms is a good way of learning the "ways", or better, the expressiveness of the rust language.
+Writing algorithms is a good way of learning about rust, and its intricacies.
 
